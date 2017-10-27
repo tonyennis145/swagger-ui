@@ -7,14 +7,14 @@
 
 #### Install npm & gulp
 
-- `brew install npm`
-- `npm install gulp-cli -g`
-- `npm install gulp -D`
+- ``brew install npm``
+- ``npm install gulp-cli -g``
+- ``npm install gulp -D``
 
 - Edit the hamlbars files in src/main/template
 - Running `gulp` compiles the files to the dist directory
 
 # To run the UI a browser
 
-`cd dist`
-`python -m SimpleHTTPServer 8000`
+- ```cd dist```
+- ```python -m SimpleHTTPServer 8000```
